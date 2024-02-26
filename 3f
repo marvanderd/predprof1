@@ -1,0 +1,4 @@
+import csv
+file = open('vacancy_new.csv')
+data = file.read().split()
+datanames = []
